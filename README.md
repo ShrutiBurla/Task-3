@@ -11,7 +11,7 @@
 
   <h2 align="center">Savor Junction - Fast food website</h2>
 
-  Foodie is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Savor Junction is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://codewithsadee.github.io/foodie/"><strong>➥ Live Demo</strong></a>
 
